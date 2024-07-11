@@ -1,5 +1,5 @@
-# Reusable Objets for Heat Maps
-# David Chen
+# Reusable Objects for Heat Maps
+# Copyright (C) 2023-4 Y. David Chen
 
 library(pheatmap)
 

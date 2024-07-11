@@ -1,12 +1,12 @@
 # Summary of Study Population
-# David Chen
 # Last Update: 01/20/2023
+# Copyright (C) 2023-4 Y. David Chen
 
 rm(list=ls())
 library(tableone)
 VARS <- c("Age","Sex","HasRepeat","Subtype")
 
-UTIL_DIR <- "~/repos/davechen/hf_ml/" #TODO: MASK
+UTIL_DIR <- "*************PATH MASKED*************"
 source(paste0(UTIL_DIR,"utils_gen.R"))
 
 load(paste0(DIR,"230120_objects.RData"))

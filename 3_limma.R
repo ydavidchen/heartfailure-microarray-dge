@@ -1,6 +1,6 @@
 # Binary LIMMA Models
-# David Chen
-# 01/20/2023
+# Last Update: 01/20/2023
+# Copyright (C) 2023-4 Y. David Chen
 
 rm(list=ls())
 library(limma)

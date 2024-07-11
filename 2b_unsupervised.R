@@ -1,6 +1,6 @@
 # Unsupervised Hierarchical Clustering
-# David Chen
-# 01/20/2022
+# Last Update: 01/20/2022
+# Copyright (C) 2023-4 Y. David Chen
 
 rm(list=ls())
 library(matrixStats)

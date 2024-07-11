@@ -1,10 +1,10 @@
 # General Utility Module
-# David Chen
+# Copyright (C) 2023-4 Y. David Chen
 
 library(ggplot2)
 
-## Constants
-DIR <- "~/Documents/datasets/HF_subtypes/calculated_profiles/microarray_only/"
+## Constants: 
+DIR <- "*************PATH MASKED*************"
 
 GTHEME <- theme_bw() +
   theme(axis.text=element_text(size=15,color="black"), axis.title=element_text(size=20,color="black"),
@@ -32,4 +32,3 @@ getClusters <- function(hcObj, num_cl=3, rowname=NULL) {
   }
   return(res_df)
 }
-

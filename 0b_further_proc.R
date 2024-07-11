@@ -1,12 +1,12 @@
-# Further Processing of Joined Dataset for Downstream Analyses
-# David Chen
+# Further Processing of Joined Datasets for Downstream Analyses
 # Date created: 10/27/2022; Updated 01/05/2022
+# Copyright (C) 2023-4 Y. David Chen
 
 rm(list=ls())
 library(matrixStats)
 library(sva)
 
-DIR <- "~/Documents/datasets/HF_subtypes/calculated_profiles/microarray_only/"
+DIR <- "*************PATH MASKED*************"
 STRNA <- c("", "nan", "NaN", "NAN", "N/A", "n/a", "---")
 
 ## Load Python3-processed data:

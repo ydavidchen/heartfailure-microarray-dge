@@ -1,5 +1,6 @@
 # Process and Assemble the Selected Microarray Datasets into Single Matrix
-# David Chen
+# Copyright (C) 2023-4 Y. David Chen
+
 import pandas as pd
 import numpy as np
 from os import path
