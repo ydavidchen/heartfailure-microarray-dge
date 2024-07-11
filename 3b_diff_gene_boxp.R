@@ -7,7 +7,7 @@ library(reshape2)
 library(lme4)
 library(lmtest)
 
-UTIL_DIR <- "~/repos/davechen/hf_ml/" #TODO: MASK
+UTIL_DIR <- "*************PATH MASKED*************"
 source(paste0(UTIL_DIR,"utils_gen.R"))
 PKEY <- "GEO_accession"
 

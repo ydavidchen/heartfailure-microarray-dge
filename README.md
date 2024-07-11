@@ -10,3 +10,5 @@ Global and gene-level meta profiling of left ventricles
     - Diseased vs. controls
     - Subgroups within the diseased
 
+
+This work has been published as an open-access article, freely available at [Journal of Molecular and Cellular Cardiology Plus, Volume 7, March 2024](https://www.sciencedirect.com/science/article/pii/S2772976123000302), doi.org/10.1016/j.jmccpl.2023.100060

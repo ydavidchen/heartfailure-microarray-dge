@@ -10,7 +10,7 @@ GABLINE <- geom_abline(slope=1, intercept=0, linetype="dashed")
 GLIMS <- c(-2.82, 2.82)
 GBREAKS_AGE <- seq(10, 80, 10)
 
-UTIL_DIR <- "~/repos/davechen/hf_ml/" #TODO: MASK
+UTIL_DIR <- "*************PATH MASKED*************"
 source(paste0(UTIL_DIR,"utils_gen.R"))
 
 load(paste0(DIR,"230120_objects.RData"))

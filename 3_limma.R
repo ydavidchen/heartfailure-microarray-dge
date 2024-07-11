@@ -6,7 +6,7 @@ rm(list=ls())
 library(limma)
 library(EnhancedVolcano)
 
-UTIL_DIR <- "~/repos/davechen/hf_ml/" #TODO: MASK
+UTIL_DIR <- "*************PATH MASKED*************"
 source(paste0(UTIL_DIR,"utils_gen.R"))
 
 load(paste0(DIR,"230120_objects.RData"))

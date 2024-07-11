@@ -5,7 +5,7 @@
 rm(list=ls())
 library(matrixStats)
 
-UTIL_DIR <- "~/repos/davechen/hf_ml/" #TODO: MASK
+UTIL_DIR <- "*************PATH MASKED*************"
 source(paste0(UTIL_DIR,"utils_gen.R"))
 source(paste0(UTIL_DIR,"utils_hm.R"))
 
